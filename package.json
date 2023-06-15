@@ -2,10 +2,10 @@
   "name": "cinemania_group",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://ZakZanko.github.io/cinemania_group-9",
+  "homepage": "https://GoitStudentsWorks.github.io/js_79_ZakZanko",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /cinemania_group-9/"
+    "build": "parcel build src/*.html --public-url /js_79_ZakZanko/"
   },
   "repository": {
     "type": "git",
